@@ -1,4 +1,5 @@
-**### - 👋 Hi, I’m @IC106
+**
+###- 👋 Hi, I’m @IC106
 ### - ⚡️ I’m interested in electricity
 ### - ⚡️ I’m currently a student studying electrical engineering
 **
